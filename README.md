@@ -97,3 +97,5 @@ function getDataLocalStorage (){
 - Bootstrap, https://getbootstrap.com/
 
 - Moment.js, https://momentjs.com/
+
+- JQuery W3Schools, https://www.w3schools.com/jquery/
