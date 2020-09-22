@@ -2,9 +2,7 @@
 $("#currentDay").text(moment().format('dddd, MMMM Do YYYY'));
 
 var currentTime = moment().hour();
-// var currentTime = 10;
-
-
+// var currentTime = 13;
 
 $(document).ready(function(){
 
