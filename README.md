@@ -1,9 +1,9 @@
-# Homework05 Third-Party APIs: Work Day Scheduler
+# Third-Party APIs: Work Day Scheduler
 This project is about the creation of a workday calendar that permits the user to save events for each work hour in the day. Saving the data entered by the user in the local storage, allowing the user to close or refresh the page and don't lose the data.
 
 With the use of JQuery I've been able to manipulate all the elements and add CSS styling to them. Also, a library [Moment.js](https://momentjs.com/) has been used to be able to work with date and time used in this project. 
 
-[Click here to Work Day Scheduler](https://chernanma.github.io/Homework05/Develop/)
+[Click here to Work Day Scheduler](https://chernanma.github.io/Work-Day-Scheduler/Develop/)
 
 ![picture](./Assets/images/main.jpg)
 
